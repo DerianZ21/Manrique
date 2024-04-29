@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Manrique/static/css/main.c8bcd466.css",
-    "main.js": "/Manrique/static/js/main.b054f60d.js",
+    "main.css": "/Manrique/static/css/main.780f66b1.css",
+    "main.js": "/Manrique/static/js/main.a602fca9.js",
     "static/js/453.7cde32fd.chunk.js": "/Manrique/static/js/453.7cde32fd.chunk.js",
     "static/media/videoSM.mp4": "/Manrique/static/media/videoSM.3c57137c050e4bcae263.mp4",
     "static/media/infoMonitoreo.png": "/Manrique/static/media/infoMonitoreo.f071a0a604d67da4f2d7.png",
@@ -107,14 +107,14 @@
     "static/media/seguro.svg": "/Manrique/static/media/seguro.6d477133d5a208034c589a7eb2153bb8.svg",
     "static/media/informacion.svg": "/Manrique/static/media/informacion.c5068313734fdd9d5f21ab32b01d7728.svg",
     "static/media/slick.woff": "/Manrique/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/ubicacion.svg": "/Manrique/static/media/ubicacion.4b569e967799dcb11db35143d890f069.svg",
+    "static/media/ubicacion.svg": "/Manrique/static/media/ubicacion.7bddfcb45a576328d6522490aacfed1a.svg",
     "index.html": "/Manrique/index.html",
-    "main.c8bcd466.css.map": "/Manrique/static/css/main.c8bcd466.css.map",
-    "main.b054f60d.js.map": "/Manrique/static/js/main.b054f60d.js.map",
+    "main.780f66b1.css.map": "/Manrique/static/css/main.780f66b1.css.map",
+    "main.a602fca9.js.map": "/Manrique/static/js/main.a602fca9.js.map",
     "453.7cde32fd.chunk.js.map": "/Manrique/static/js/453.7cde32fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8bcd466.css",
-    "static/js/main.b054f60d.js"
+    "static/css/main.780f66b1.css",
+    "static/js/main.a602fca9.js"
   ]
 }
