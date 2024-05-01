@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Manrique/static/css/main.4e911fc1.css",
-    "main.js": "/Manrique/static/js/main.57037dfa.js",
+    "main.css": "/Manrique/static/css/main.226d9f04.css",
+    "main.js": "/Manrique/static/js/main.262b4302.js",
     "static/js/453.7cde32fd.chunk.js": "/Manrique/static/js/453.7cde32fd.chunk.js",
     "static/media/videoSM.mp4": "/Manrique/static/media/videoSM.3c57137c050e4bcae263.mp4",
     "static/media/infoMonitoreo.png": "/Manrique/static/media/infoMonitoreo.f071a0a604d67da4f2d7.png",
     "static/media/cell-app-pinlet.png": "/Manrique/static/media/cell-app-pinlet.46c00ab13499f477a30e.png",
-    "static/media/img-contactanos.webp": "/Manrique/static/media/img-contactanos.1a1b2ebd507813668751.webp",
     "static/media/sistemasQR.webp": "/Manrique/static/media/sistemasQR.0f0fe0dff067c2ec3552.webp",
     "static/media/sistemaFACIAL.webp": "/Manrique/static/media/sistemaFACIAL.6a445795c4776a2b6380.webp",
     "static/media/personalizado.webp": "/Manrique/static/media/personalizado.d8c700730558e7b645ab.webp",
@@ -36,7 +35,6 @@
     "static/media/tenisclub.png": "/Manrique/static/media/tenisclub.3b48d652be0abe966fd7.png",
     "static/media/sistemas-cctv.webp": "/Manrique/static/media/sistemas-cctv.883dad614388a8ba63a9.webp",
     "static/media/puertas-seguridad.webp": "/Manrique/static/media/puertas-seguridad.01807bcc3a3bf477ee5c.webp",
-    "static/media/fondo-contacto.webp": "/Manrique/static/media/fondo-contacto.2084eebdaeb8cdcc528a.webp",
     "static/media/control-vehicular.webp": "/Manrique/static/media/control-vehicular.f3f858525f57fc1c0601.webp",
     "static/media/torres-costa.webp": "/Manrique/static/media/torres-costa.7f1a49e6c398385d7005.webp",
     "static/media/vision.png": "/Manrique/static/media/vision.9b58b863a9ca76e52c7c.png",
@@ -45,6 +43,7 @@
     "static/media/sistemas-incendios.webp": "/Manrique/static/media/sistemas-incendios.5f1921055f7e62293ce8.webp",
     "static/media/seguridad.png": "/Manrique/static/media/seguridad.6e47ad305b4a172b35c9.png",
     "static/media/mision.png": "/Manrique/static/media/mision.2b53302db0edd744d95c.png",
+    "static/media/ubicacion2.png": "/Manrique/static/media/ubicacion2.8b86a0c22439f6a095d1.png",
     "static/media/camara.png": "/Manrique/static/media/camara.46c419c8fb4f0bd2b7c0.png",
     "static/media/detertor-incendios.png": "/Manrique/static/media/detertor-incendios.a1a328be7c159261e071.png",
     "static/media/codigo-qr.webp": "/Manrique/static/media/codigo-qr.5e0e147d1985ddc970e1.webp",
@@ -63,11 +62,13 @@
     "static/media/comunicacion.png": "/Manrique/static/media/comunicacion.7da3baa60d730cab9b8a.png",
     "static/media/clinicakenedy.png": "/Manrique/static/media/clinicakenedy.ab331c91336522466957.png",
     "static/media/x.png": "/Manrique/static/media/x.e58e4997ef85cbd7054c.png",
+    "static/media/telefono.png": "/Manrique/static/media/telefono.bdea13506516262e077d.png",
     "static/media/24-7.png": "/Manrique/static/media/24-7.4fd90454795bfd6d6ded.png",
     "static/media/megafono.png": "/Manrique/static/media/megafono.99c50c6ec462ca5a3da1.png",
     "static/media/APY.svg": "/Manrique/static/media/APY.1e711f83db5a73f0f1511c154b4e12c0.svg",
     "static/media/adaptabilidad.png": "/Manrique/static/media/adaptabilidad.8a5eeed00e4fb7763cfe.png",
     "static/media/iess.png": "/Manrique/static/media/iess.d97a6a42873753ce3f86.png",
+    "static/media/email.png": "/Manrique/static/media/email.8658810f441040c8ffe1.png",
     "static/media/inmomariuxi.png": "/Manrique/static/media/inmomariuxi.333f1d8af3f7ad2052b5.png",
     "static/media/google-play.png": "/Manrique/static/media/google-play.a648948d37cae7a0021c.png",
     "static/media/escalabilidad.png": "/Manrique/static/media/escalabilidad.37d5144ede17f6a38fbe.png",
@@ -82,7 +83,6 @@
     "static/media/id.png": "/Manrique/static/media/id.15b3e205ffeba48cb122.png",
     "static/media/lista.png": "/Manrique/static/media/lista.63bf270ce06c27f992c1.png",
     "static/media/UEES.jpg": "/Manrique/static/media/UEES.d5c2af7e19a733b4f920.jpg",
-    "static/media/telefono.png": "/Manrique/static/media/telefono.20a0ed4204215b0502d9.png",
     "static/media/medlog.png": "/Manrique/static/media/medlog.0f112d481d198e6c32a1.png",
     "static/media/delportal.jpg": "/Manrique/static/media/delportal.df199f4896cb4ea61562.jpg",
     "static/media/facebook.png": "/Manrique/static/media/facebook.8d51a55626e9bf107f8f.png",
@@ -111,12 +111,12 @@
     "static/media/slick.woff": "/Manrique/static/media/slick.295183786cd8a1389865.woff",
     "static/media/ubicacion.svg": "/Manrique/static/media/ubicacion.7bddfcb45a576328d6522490aacfed1a.svg",
     "index.html": "/Manrique/index.html",
-    "main.4e911fc1.css.map": "/Manrique/static/css/main.4e911fc1.css.map",
-    "main.57037dfa.js.map": "/Manrique/static/js/main.57037dfa.js.map",
+    "main.226d9f04.css.map": "/Manrique/static/css/main.226d9f04.css.map",
+    "main.262b4302.js.map": "/Manrique/static/js/main.262b4302.js.map",
     "453.7cde32fd.chunk.js.map": "/Manrique/static/js/453.7cde32fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e911fc1.css",
-    "static/js/main.57037dfa.js"
+    "static/css/main.226d9f04.css",
+    "static/js/main.262b4302.js"
   ]
 }
