@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Manrique/static/css/main.226d9f04.css",
-    "main.js": "/Manrique/static/js/main.262b4302.js",
+    "main.css": "/Manrique/static/css/main.fb37ad97.css",
+    "main.js": "/Manrique/static/js/main.e8860e20.js",
     "static/js/453.7cde32fd.chunk.js": "/Manrique/static/js/453.7cde32fd.chunk.js",
     "static/media/videoSM.mp4": "/Manrique/static/media/videoSM.3c57137c050e4bcae263.mp4",
     "static/media/infoMonitoreo.png": "/Manrique/static/media/infoMonitoreo.f071a0a604d67da4f2d7.png",
@@ -111,12 +111,12 @@
     "static/media/slick.woff": "/Manrique/static/media/slick.295183786cd8a1389865.woff",
     "static/media/ubicacion.svg": "/Manrique/static/media/ubicacion.7bddfcb45a576328d6522490aacfed1a.svg",
     "index.html": "/Manrique/index.html",
-    "main.226d9f04.css.map": "/Manrique/static/css/main.226d9f04.css.map",
-    "main.262b4302.js.map": "/Manrique/static/js/main.262b4302.js.map",
+    "main.fb37ad97.css.map": "/Manrique/static/css/main.fb37ad97.css.map",
+    "main.e8860e20.js.map": "/Manrique/static/js/main.e8860e20.js.map",
     "453.7cde32fd.chunk.js.map": "/Manrique/static/js/453.7cde32fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.226d9f04.css",
-    "static/js/main.262b4302.js"
+    "static/css/main.fb37ad97.css",
+    "static/js/main.e8860e20.js"
   ]
 }
