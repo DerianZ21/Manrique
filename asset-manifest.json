@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Manrique/static/css/main.fb37ad97.css",
-    "main.js": "/Manrique/static/js/main.e8860e20.js",
+    "main.css": "/Manrique/static/css/main.a2e6e023.css",
+    "main.js": "/Manrique/static/js/main.b8c88685.js",
     "static/js/453.7cde32fd.chunk.js": "/Manrique/static/js/453.7cde32fd.chunk.js",
     "static/media/videoSM.mp4": "/Manrique/static/media/videoSM.3c57137c050e4bcae263.mp4",
     "static/media/infoMonitoreo.png": "/Manrique/static/media/infoMonitoreo.f071a0a604d67da4f2d7.png",
@@ -101,7 +101,7 @@
     "static/media/malecon2000.webp": "/Manrique/static/media/malecon2000.672201edbbabea49433d.webp",
     "static/media/oficina.svg": "/Manrique/static/media/oficina.c2fd3e95288e70b081e666b9cc3fd0aa.svg",
     "static/media/grabacion.svg": "/Manrique/static/media/grabacion.2fe1e36227a3597787669c301a4c251a.svg",
-    "static/media/slick.svg": "/Manrique/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.svg": "/Manrique/static/media/slick.7ba97953187dc2907930.svg",
     "static/media/monitoreo.svg": "/Manrique/static/media/monitoreo.3265f8fabec5af9b1156d50e5b43b2c8.svg",
     "static/media/slick.eot": "/Manrique/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/hogar.svg": "/Manrique/static/media/hogar.afe232ab3c6abb1ba37173a271c331af.svg",
@@ -111,12 +111,12 @@
     "static/media/slick.woff": "/Manrique/static/media/slick.295183786cd8a1389865.woff",
     "static/media/ubicacion.svg": "/Manrique/static/media/ubicacion.7bddfcb45a576328d6522490aacfed1a.svg",
     "index.html": "/Manrique/index.html",
-    "main.fb37ad97.css.map": "/Manrique/static/css/main.fb37ad97.css.map",
-    "main.e8860e20.js.map": "/Manrique/static/js/main.e8860e20.js.map",
+    "main.a2e6e023.css.map": "/Manrique/static/css/main.a2e6e023.css.map",
+    "main.b8c88685.js.map": "/Manrique/static/js/main.b8c88685.js.map",
     "453.7cde32fd.chunk.js.map": "/Manrique/static/js/453.7cde32fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb37ad97.css",
-    "static/js/main.e8860e20.js"
+    "static/css/main.a2e6e023.css",
+    "static/js/main.b8c88685.js"
   ]
 }
